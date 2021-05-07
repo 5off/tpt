@@ -1,5 +1,4 @@
-{ 'dictionary': {
-	{'term':'someterm', 'meaning':'meaning of someterm'},
-	{'term':'someotherterm', 'meaning':'meaning of someotherterm'},
-  }
+{
+	"someterm": "meaning of someterm",
+	"someotherterm": "meaning of someotherterm"
 }

@@ -1,11 +1,11 @@
-{ 'characters': {
-	{'character':'Protagonist',
-	'description':'some description',
-	'age': 50
+{ "characters": [
+	{"character":"Protagonist",
+	"description":"some description",
+	"age": 50
 	},
-	{'character':'Antagonist',
-	'description':'some description'
-	'age': 59
-	},
-  }
+	{"character":"Antagonist",
+	"description":"some description",
+	"age": 59
+	}
+  ]
 }

@@ -1,7 +1,6 @@
-{ 'Text' : {
-	'title': 'The Text',
-	'author': 'Me',
-	'wordcount': 8,
-	'reading time (minutes)': 1,
-  }
+{
+	"title": "The Text",
+	"author": "Me",
+	"wordcount": 8,
+	"reading time (minutes)": 1
 }

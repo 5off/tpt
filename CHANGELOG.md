@@ -17,6 +17,7 @@ All notable changes to this project will be documented in this file. The format 
 
 - README.md: added links to template's files for more convenience
 - README.md: added sections (What is it, Why is it, What is here) for a better look
+- fixed bugs in json files and changed their structure a bit
 
 ## [1.0] - 2021-05-07
 
