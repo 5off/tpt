@@ -1,6 +1,6 @@
 # Text Project Template
 
-A template for writing fictional texts (novels, stories, miniatures, etc) that  The template uses a general method of organizing things when writing source code for software. This makes it easier to use git for version control and backups. Also it makes writing much more interesting and structured like a good software engineering project.
+A template for swift writing fictional texts (novels, stories, miniatures, etc). The template uses a general method of organizing things when writing source code for software. This makes it easier to use git for version control and backups. Also it makes writing much more interesting and structured like a good software engineering project.
 
 ## Files and Folders
 
