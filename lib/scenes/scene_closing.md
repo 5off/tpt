@@ -1,0 +1,2 @@
+# Scene: Closing
+The end.
