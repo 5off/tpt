@@ -4,7 +4,8 @@ All notable changes to this project will be documented in this file. The format 
 
 ## [Unreleased]
 
--
+- added legend (and the (sketch|dev|prod) tags conception)
+- sketch is a special section in scene file that helps to catch ideas and then guide author. It contain draft summary (outline) of the scene
 
 ## [1.01] - 2021-05-07
 
