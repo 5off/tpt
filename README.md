@@ -30,8 +30,8 @@ The template uses a general method of organizing things when writing source code
 - [/lib/scenes/scene_closing.md](lib/scenes/scene_closing.md) = closing scene (template)
 - /lib/scenes/scene_XXX.md = some other scene
 
-- [/meta/main_meta.json](meta/main_meta.json) = metadata for the the (title, author, brief description, worcount, starting idea, etc)
-- [/meta/characters.json](meta/characters.json) = list of characters and their properties
-- [/meta/dictionary.json](meta/dictionary.json) = dictionary of specific terms used in the text (could be automatically generated in the future)
-- [/meta/outline.json](meta/outline.json) = outline for text.md (could be automatically generated in the future)
-- [/meta/scenes.json](meta/scenes.json) = structured list of scenes (could be automatically generated from scenes.md in the future)
+- [/meta/main_meta.yaml](meta/main_meta.yaml) = metadata for the the (title, author, brief description, worcount, starting idea, etc)
+- [/meta/characters.yaml](meta/characters.yaml) = list of characters and their properties
+- [/meta/dictionary.yaml](meta/dictionary.yaml) = dictionary of specific terms used in the text (could be automatically generated in the future)
+- [/meta/outline.yaml](meta/outline.yaml) = outline for text.md (could be automatically generated in the future)
+- [/meta/scenes.yaml](meta/scenes.yaml) = structured list of scenes (could be automatically generated from scenes.md in the future)
