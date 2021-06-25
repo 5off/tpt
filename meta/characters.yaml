@@ -1,0 +1,12 @@
+---
+# Characters: their names, properties, etc.
+
+characters:
+
+- character: Protagonist
+  description: some description
+  age: 50
+
+- character: Antagonist
+  description: some description
+  age: 59

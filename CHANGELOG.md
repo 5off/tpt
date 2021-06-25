@@ -4,8 +4,18 @@ All notable changes to this project will be documented in this file. The format 
 
 ## [Unreleased]
 
-- added legend (and the (sketch|dev|prod) tags conception)
-- sketch is a special section in scene file that helps to catch ideas and then guide author. It contain draft summary (outline) of the scene
+-
+
+## [1.1] - 2021-06-26
+
+### Added
+
+- Added legend (and the (sketch|dev|prod) tags conception)
+- 'Sketch' is a special section in scene file that helps to catch ideas and then guide author. It contain draft summary (outline) of the scene
+
+### Changed
+
+- all metadata is now in yaml format
 
 ## [1.01] - 2021-05-07
 

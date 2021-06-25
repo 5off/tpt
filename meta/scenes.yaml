@@ -1,0 +1,16 @@
+---
+# List of the scenes and their properties: order, description, path to the .md file, etc.
+
+scenes:
+
+- scene: Opening
+  order: 1
+  description: The journey begins
+  path: "/lib/scenes/scene_opening.md"
+  wordcount: 6
+
+- scene: Closing
+  order: 2
+  description: The journey ends
+  path: "/lib/scenes/scene_closing.md"
+  wordcount: 2
