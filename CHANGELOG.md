@@ -16,6 +16,7 @@ All notable changes to this project will be documented in this file. The format 
 ### Changed
 
 - all metadata is now in yaml format
+- no more 'scene_' prefix for scenes' filenames
 
 ## [1.01] - 2021-05-07
 

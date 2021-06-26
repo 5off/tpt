@@ -8,5 +8,5 @@
 
 ## Plan of scenes
 
-- dev: [Opening scene](scenes/scene_opening): The journey begins
-- prod: [Closing scene](scene/scene_closing): The journey ends
+- dev: [Opening scene](scenes/opening.md): The journey begins
+- prod: [Closing scene](scenes/closing.md): The journey ends

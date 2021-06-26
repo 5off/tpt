@@ -20,15 +20,15 @@ The template uses a general method of organizing things when writing source code
 
 ### Files
 
-- [/main.md](main.md) = main file, comlete text with section headers
+- [/main.md](main.md) = main file, complete text with section headers
 - [/README.md](README.md) = the file you are reading now, it explains what lies here and why
 
 - [/lib/characters.md](lib/characters.md) = list of characters
 - [/lib/dictionary.md](lib/dictionary.md) = dictionary of specific terms used in the writing
 - [/lib/scenes.md](lib/scenes.md) = list of writing's scenes
-- [/lib/scenes/scene_opening.md](lib/scenes/scene_opening.md) = opening scene (template)
-- [/lib/scenes/scene_closing.md](lib/scenes/scene_closing.md) = closing scene (template)
-- /lib/scenes/scene_XXX.md = some other scene
+- [/lib/scenes/opening.md](lib/scenes/opening.md) = opening scene (template)
+- [/lib/scenes/closing.md](lib/scenes/closing.md) = closing scene (template)
+- /lib/scenes/XXX.md = some other scene
 
 - [/meta/main_meta.yaml](meta/main_meta.yaml) = metadata for the the (title, author, brief description, worcount, starting idea, etc)
 - [/meta/characters.yaml](meta/characters.yaml) = list of characters and their properties
