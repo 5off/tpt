@@ -6,11 +6,11 @@ scenes:
 - scene: Opening
   order: 1
   description: The journey begins
-  path: "/lib/scenes/opening.md"
+  path: "scenes/opening.md"
   wordcount: 6
 
 - scene: Closing
   order: 2
   description: The journey ends
-  path: "/lib/scenes/closing.md"
+  path: "scenes/closing.md"
   wordcount: 2

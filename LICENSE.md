@@ -1,10 +1,10 @@
 # Licensing
 
-1. The structure of the project, all source code (if it is here someday) and json files are licensed according to [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.html)
+1. The structure of the project, all source code (if it is here someday) and configuration files are licensed according to [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.html)
 
 2. The content of plain text files (.md) are licensed according to Creative Creative Commons Attribution-ShareAlike 4.0 International Public License [(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Copyright (c) [Alexey Pyatov](https://fb.com/alexey.pyatov).
+Copyright (c) [Alexey Pyatov](https://vk.com/alexey.pyatov).
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the TPT and its components.
 

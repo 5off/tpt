@@ -4,7 +4,21 @@ All notable changes to this project will be documented in this file. The format 
 
 ## [Unreleased]
 
--
+## [1.3] - 2023-10-08
+
+### Added
+
+- New folder structure (/tpt and below)
+- /media for images and other media stuff (music, video, etc)
+- .gitignore
+
+### Changed
+
+- outline.md instead of main.md
+- /scenes moved to the /tpt folder (root)
+- /meta/main_meta.yaml renamed to main.yaml
+- no more outline.yaml
+- scenes.yaml renamed to outline.yaml
 
 ## [1.1] - 2021-06-26
 
