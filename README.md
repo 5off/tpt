@@ -14,7 +14,7 @@ The template uses a general method of organizing things when writing source code
 2. Rename tpt folder as you like
 3. Write scenes and fill in the outline.md file using URLs to scenes' files.
 
-## What is here
+## What is here and how to use it
 
 ### The outline and scenes
 
@@ -27,6 +27,8 @@ Scenes (parts of your text) are located in the /scenes folder:
 - [/tpt/scenes/opening.md](tpt/scenes/opening.md) = opening scene (template)
 - [/tpt/scenes/closing.md](tpt/scenes/closing.md) = closing scene (template)
 - /tpt/scenes/XXX.md = some other scene
+
+Each scene file has 2 sections: Sketch and Text. Put the summary of the scene and all your thoughts to the '## Sketch' section and the scene's text to the '## Text' section. It is important if you want to use the Storybuilder app - it gets the scene's text from the '## Text' section and it should be the 2nd section in the .md file.
 
 ### /tpt/info = folder for supporting materials
 
