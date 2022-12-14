@@ -2,36 +2,41 @@
 
 ## What is it
 
-A template for swift writing fictional texts (novels, stories, miniatures, etc).
+A template for swift writing texts (novels, stories, miniatures, articles, etc).
 
 ## Why is it
 
-The template uses a general method of organizing things when writing source code for software. This makes it easier to use git for version control and backups. Also it makes writing much more interesting and structured like a good software engineering project.
+The template uses a general method of organizing things when writing source code for software. This makes it easier to use git for version control and backups. Also it makes writing much more interesting and structured like a good software engineering project. And the complete story (article) can be easily built with the storybuilder app.
+
+## How to use it
+
+1. Clone the repository
+2. Rename tpt folder as you like
+3. Write scenes and fill in the outline.md file using URLs to scenes' files.
 
 ## What is here
 
-### Folders
+### The outline and scenes
 
-- / = folder for readme.md and main.md files only
-- /img = folder for images used in the text
-- /lib = folder for supporting materials (library)
-- /lib/scenes = folder for scenes’ files
-- /meta = folder for metadata files
+- [/tpt/outline.md](tpt/outline.md) = outline of your text's scenes, the most important file for the project.
 
-### Files
+The outline.md file is used to write a structured outline for your text using necessary headers and list of parts (scenes). When some scene text is more or less ready, write an url to it's file instead of a scene's name.
 
-- [/main.md](main.md) = main file, complete text with section headers
-- [/README.md](README.md) = the file you are reading now, it explains what lies here and why
+Scenes (parts of your text) are located in the /scenes folder:
 
-- [/lib/characters.md](lib/characters.md) = list of characters
-- [/lib/dictionary.md](lib/dictionary.md) = dictionary of specific terms used in the writing
-- [/lib/scenes.md](lib/scenes.md) = list of writing's scenes
-- [/lib/scenes/opening.md](lib/scenes/opening.md) = opening scene (template)
-- [/lib/scenes/closing.md](lib/scenes/closing.md) = closing scene (template)
-- /lib/scenes/XXX.md = some other scene
+- [/tpt/scenes/opening.md](tpt/scenes/opening.md) = opening scene (template)
+- [/tpt/scenes/closing.md](tpt/scenes/closing.md) = closing scene (template)
+- /tpt/scenes/XXX.md = some other scene
 
-- [/meta/main_meta.yaml](meta/main_meta.yaml) = metadata for the the (title, author, brief description, worcount, starting idea, etc)
-- [/meta/characters.yaml](meta/characters.yaml) = list of characters and their properties
-- [/meta/dictionary.yaml](meta/dictionary.yaml) = dictionary of specific terms used in the text (could be automatically generated in the future)
-- [/meta/outline.yaml](meta/outline.yaml) = outline for text.md (could be automatically generated in the future)
-- [/meta/scenes.yaml](meta/scenes.yaml) = structured list of scenes (could be automatically generated from scenes.md in the future)
+### /tpt/info = folder for supporting materials
+
+- [/info/characters.md](tpt/info/characters.md) = list of characters
+- [/info/dictionary.md](tpt/info/dictionary.md) = dictionary of specific terms used in the writing
+
+### /tpt/meta = metadata folder (if you need it)
+
+- [/tpt/meta/main_meta.yaml](tpt/meta/main.yaml)### /tpt/info = folder for supporting materials
+ = metadata for the tetx (title, author, brief description, etc)
+- [/tpt/meta/characters.yaml](tpt/meta/characters.yaml) = list of characters and their properties
+- [/tpt/meta/dictionary.yaml](tpt/meta/dictionary.yaml) = dictionary of specific terms used in the text (could be automatically generated in the future)
+- [/tpt/meta/scenes.yaml](tpt/meta/scenes.yaml) = structured list of scenes (could be automatically generated from outline.md in the future)

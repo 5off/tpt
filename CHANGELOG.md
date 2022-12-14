@@ -4,7 +4,14 @@ All notable changes to this project will be documented in this file. The format 
 
 ## [Unreleased]
 
-## [1.3] - 2023-10-08
+## [1.4] - 2022-12-14
+
+- New folder structure inside /tpt folder
+- outline.md instead of scenes.md; now it's more clean and easier to read
+- summary.md in /info folder
+- legend.md in /info folder
+
+## [1.3] - 2022-10-08
 
 ### Added
 
