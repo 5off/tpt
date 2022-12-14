@@ -1,4 +1,4 @@
-# The Text: outline
+# The Text I Wrote
 
 ## Chapter 1
 
